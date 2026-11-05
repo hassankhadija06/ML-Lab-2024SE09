@@ -127,7 +127,7 @@ ML-Lab-2024-SE-09/
   - Lower median price for installments likely indicates that classified listings advertise only the upfront down payment / advance token rather than total financed cost, or that financing is more commonly offered on budget models.
 
 ### Task 5 · Save Cleaned Dataset
-- Exported clean DataFrame to [`pakistan_used_cars_clean.csv`](./pakistan_used_cars_clean.csv) with final shape `(20484, 11)` (including `Price_lakh` and `Age`).
+- Exported clean DataFrame to [`pakistan_used_cars_clean.csv`](https://github.com/hassankhadija06/ML-Lab-2024SE09/blob/main/Lab03/pakistan_used_cars.csv) with final shape `(20484, 11)` (including `Price_lakh` and `Age`).
 
 ### Task 6 · Reflection
 > Ignoring invalid values and extreme outliers (such as placeholder prices like Rs 87,654,321 or miskeyed figures) would have produced the most misleading answers by heavily skewing mean prices and summary statistics. In the Pakistani used-car market, Japanese economy manufacturers heavily dominate supply, with Suzuki alone accounting for over 42% of all advertisements. Furthermore, hybrid vehicles command the highest median price across fuel types at 16.28 lakh rupees, whereas CNG and LPG vehicles sit at the lowest median prices under 4 lakh rupees.
